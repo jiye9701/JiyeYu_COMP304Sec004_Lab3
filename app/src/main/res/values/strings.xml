@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JiyeYu_COMP304Sec004_Lab3</string>
+    <string name="clear"></string>
+
+    <string
+        name="tween">Click the Buttons to Start!</string>
+    <string-array name="starr">
+        <item>Exercise 1</item>
+        <item>Exercise 2</item>
+        <item>Exercise 3</item>
+
+    </string-array>
+</resources>
